@@ -1,0 +1,7 @@
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe.config
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\bin\Debug\ClassRoom.pdb
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\obj\Debug\ClassRoom.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\obj\Debug\ClassRoom.exe
+D:\C#\Programming\C# practice\Inheritance\ClassRoom\ClassRoom\ClassRoom\obj\Debug\ClassRoom.pdb
