@@ -8,7 +8,7 @@ namespace DocumentWorker
 {
     class DocumentWorker
     {
-        public virtual void OpenDocument ()
+        public void OpenDocument ()
         {
             Console.WriteLine("Документ открыт");
         }

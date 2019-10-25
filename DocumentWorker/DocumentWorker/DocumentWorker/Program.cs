@@ -10,6 +10,9 @@ namespace DocumentWorker
     {
         static void Main(string[] args)
         {
+            
+            
+
             DocumentWorker freeversion = new DocumentWorker();
             freeversion.OpenDocument();
             freeversion.EditDocument();
@@ -17,23 +20,22 @@ namespace DocumentWorker
             Console.WriteLine("Вы пользуетесь бесплатной версией продукта, если хотите пользоваться версией Pro или Expert" +
                 "введите соответствующий ключ : pro или expert ");
 
-            if (Console.ReadLine() == "pro")
+            string choice = Console.ReadLine();
+            
+
+            if (choice == "pro")
             {
                 DocumentWorker proversion = new ProDocumentWorker();
                 proversion.OpenDocument();
                 proversion.EditDocument();
                 proversion.SaveDocument();
             }
-            else if (Console.ReadLine () == "expert")
+            else if (choice == "expert")
             {
-                DocumentWorker expertversion = new ExpertDocumentWorker();
+                ProDocumentWorker expertversion = new ExpertDocumentWorker();
                 expertversion.OpenDocument();
                 expertversion.EditDocument();
                 expertversion.SaveDocument();
-            }
-            else if ()
-            {
-
             }
         }
     }

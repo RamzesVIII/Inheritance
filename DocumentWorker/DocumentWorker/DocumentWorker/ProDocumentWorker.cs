@@ -8,6 +8,7 @@ namespace DocumentWorker
 {
     class ProDocumentWorker : DocumentWorker
     {
+        
         public override void EditDocument()
         {
             Console.WriteLine("Документ отредактирован");
